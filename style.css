@@ -1,0 +1,33 @@
+.center{
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  justify-content: center;
+  box-sizing: border-box;
+  margin: 0% auto;
+  flex-wrap: wrap;
+}
+.x{
+  width: 32%;
+
+  margin-left: 0%;
+  height: auto;
+  display: block;
+
+}
+.y{
+  width: 32%;
+
+margin-left: 0%;
+height: auto;
+display: block;
+
+}
+.z{
+  width: 32%;
+
+margin-left:0%;
+height: auto;
+display: block;
+
+}
